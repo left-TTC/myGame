@@ -1,0 +1,47 @@
+# Ignore the Unity Library folder
+[Ll]ibrary/
+
+# Ignore the Temp folder
+[Tt]emp/
+
+# Ignore the Build folder
+[Bb]uild/
+
+# Ignore user-specific files
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.swp
+*.sln
+*.csproj
+*.pidb
+*.pdb
+*.mdb
+*.bak
+*.vs/
+
+# Ignore Unity crash reports
+[Dd]ebug/
+[Dd]ebugFiles/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore the Unity package cache
+[Pp]ackageCache/
+
+# Ignore build log files
+*.log
+
+# Ignore Unity generated asset bundles
+*.assetbundle
+
+# Ignore UserSettings
+UserSettings/
+
+# Ignore IDE config files (VS Code, JetBrains)
+.vscode/
+.idea/
